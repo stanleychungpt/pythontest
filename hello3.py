@@ -5,5 +5,5 @@ print(sys.version)
 
 print("hello again")
 print("hello again and again, fixed!")
-print("This is the error, and fix it again")
-print("Fix version of add error here 4")
+# print("This is the error, and fix it again")
+# print("Fix version of add error here 4")
